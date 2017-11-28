@@ -1,3 +1,53 @@
-h1{
-  color: red;
+body{
+  background-color: #FF5722;
+  color: white;
+  margin: 0;
+}
+
+#karticka{
+  background-color: white;
+  color: black;
+}
+
+
+
+#vnitrni{
+  height: 40px;
+  width: 50%;
+  background-color: green;
+
+}
+
+#vnejsi{
+  height: 50px;
+  width: 50%;
+  background-color: blue;
+
+}
+
+.ahoj{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+.navbar{
+  background-color: white;
+  width: 100%;
+  height: 50px;
+}
+
+.odkaz{
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  height: 100%;
+  margin: 10px;
+}
+
+.odkaz:hover{
+  color: white;
+  background-color: black;
 }
